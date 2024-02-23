@@ -27,4 +27,4 @@ Dive into Python with our weekly updated tutorials and resources. Whether you're
 
 Happy coding!
 
-
+**Notice:** To access weekly codes, go to the code of the week you want and click on the **Open in Colab** button at the top. 

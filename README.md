@@ -23,7 +23,7 @@ Welcome to the *Learn Python Programming Language* repository! Python is not onl
 
 ## Getting Started
 
-Dive into Python with our weekly updated tutorials and resources. Whether you're starting from scratch or looking to advance your skills, this repository is your gateway to mastering Python. Enjoy your learning journey, and remember, the Python community is here to support you every step of the way. If there is a part of the code that you do not understand and the comment lines do not help you understand enough, you can copy your code to ChatGPT and ask for explanation.
+Dive into Python with our weekly updated tutorials and resources. Whether you're starting from scratch or looking to advance your skills, this repository is your gateway to mastering Python. Enjoy your learning journey, and remember, the Python community is here to support you every step of the way. If there is a part of the code that you do not understand and the comment lines do not help you understand enough, you can copy your code to ChatGPT and ask for explanation or directly ask to me.
 
 Happy coding!
 

@@ -2,9 +2,9 @@
   <img src="photo.png" alt="Python and Nature" style="width:50%;">
 </p>
 
-# Learn-Python-Programming-Language
+# Learn Python Programming Language
 
-Welcome to the *Learn Python Programming Language* repository! Python is not only one of the most popular programming languages worldwide but also known for its simplicity and versatility. This repository is designed to help you embark on your Python learning journey, offering resources and tutorials that are updated weekly. Let's dive into why learning Python is a valuable endeavor and where it can be applied.
+Welcome to the *Learn Python* repository! Python is not only one of the most popular programming languages worldwide but also known for its simplicity and versatility. This repository is designed to help you embark on your Python learning journey, offering resources and tutorials that are updated weekly. Let's dive into why learning Python is a valuable endeavor and where it can be applied.
 
 ## Why Learn Python?
 
